@@ -1,0 +1,19 @@
+{
+  "name": "gruntjs-bower-starter-project",
+  "description": "Another starter project where I'm using GruntJS, Bower, Coffeescript, Stylus, Jade, Source Include.",
+  "main": "index.js",
+  "authors": [
+    "Charlie Walter"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}
